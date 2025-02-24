@@ -60,5 +60,4 @@ Prompt engineering is the way of talking to AI. If you want AI to do exactly wha
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Vague prompt tell me about climate change
-
 Improved prompt is a clear, specific and detailed request that helps AI models generates relevant and accurate responses.
